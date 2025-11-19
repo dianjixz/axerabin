@@ -156,7 +156,7 @@
 					<Base>0x0</Base>
 					<Size>0x0</Size>
 				</Block>
-				<File>ubuntu_rootfs_desktop_sparse.ext4</File>
+				<File>rootfs_sparse.ext4</File>
 				<Auth algo="0" />
 				<Description>Download rootfs image file</Description>
 			</Img>
