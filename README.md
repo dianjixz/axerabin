@@ -1,6 +1,6 @@
 ## Axera firmware
 
-This repository contains the Axera Binary Firmware Package (AxeraBin) necessary to successfully operate Axera-based Single Board Computers (SBCs) and devices. Armbian provides stable and reliable operating systems for various ARM boards, including those powered by Rockchip processors.
+This repository contains the Axera Binary Firmware Package (AxeraBin) necessary to successfully operate Axera-based Single Board Computers (SBCs) and devices. Armbian provides stable and reliable operating systems for various ARM boards, including those powered by Axera processors.
 
 ## What is AxeraBin?
 AxeraBin is a collection of proprietary firmware components essential for proper hardware initialization, booting, and system operation on Axera SBCs. It includes the bootloader, trusted firmware, and other binary blobs required for a seamless boot process and efficient hardware utilization.
